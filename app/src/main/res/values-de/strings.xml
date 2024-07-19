@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Meine Anwendung</string>
+
+    <string name="nav_home">Start</string>
+    <string name="nav_explore">Erkunden</string>
+    <string name="nav_create">Erstellen</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="location">Standort</string>
+    <string name="dark_model">Dunkler Modus</string>
+    <string name="language">Sprache</string>
+    <string name="help">Hilfe</string>
+    <string name="settings">Einstellungen</string>
+    <string name="register">Registrieren</string>
+    <string name="login">Anmelden</string>
+    <string name="sign_in_with_google">Mit Google anmelden</string>
+    <string name="enter_email">E-Mail eingeben</string>
+    <string name="enter_password">Passwort eingeben</string>
+    <string name="upload_photo">Foto hochladen</string>
+    <string name="remind">Erinnern</string>
+    <string name="personal_info">Persönliche Infos</string>
+    <string name="support">Unterstützung</string>
+    <string name="share">Teilen</string>
+    <string name="setting">Einstellung</string>
+    <string name="log_out">Abmelden</string>
+    <string name="day_dreamer">Tagträumer</string>
+    <string name="wish_you_had_a_lovely_day">Wünsche Ihnen einen schönen Tag!</string>
+    <string name="confirm_password">Passwort bestätigen</string>
+<string name="title_activity_weather">Wetteraktivität</string>
+    <string name="mapbox_access_token">" pk.eyJ1IjoibHV5Z2dnIiwiYSI6ImNsdm0wcWF2dzJoemUycXMyejNxeDM4dmoifQ.qGGJrHOCGWx9tepagMKk1Q"</string>
+    <string name="reset_password">Passwort zurücksetzen</string>
+</resources>

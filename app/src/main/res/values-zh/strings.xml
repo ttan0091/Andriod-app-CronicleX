@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">我的应用</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_explore">探索</string>
+    <string name="nav_create">创建</string>
+    <string name="nav_profile">个人资料</string>
+
+    <string name="location">位置</string>
+    <string name="dark_model">深色模式</string>
+    <string name="language">语言</string>
+    <string name="help">帮助</string>
+    <string name="settings">设置</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="sign_in_with_google">用谷歌账号登录</string>
+    <string name="enter_email">输入邮箱</string>
+    <string name="enter_password">输入密码</string>
+    <string name="upload_photo">上传照片</string>
+    <string name="remind">提醒</string>
+    <string name="personal_info">个人信息</string>
+    <string name="support">支持</string>
+    <string name="share">分享</string>
+    <string name="setting">设置</string>
+    <string name="log_out">退出登录</string>
+    <string name="day_dreamer">白日梦想家</string>
+    <string name="wish_you_had_a_lovely_day">祝你有个愉快的一天！</string>
+    <string name="confirm_password">确认密码</string>
+<string name="title_activity_weather">天气活动</string>
+    <string name="mapbox_access_token">" pk.eyJ1IjoibHV5Z2dnIiwiYSI6ImNsdm0wcWF2dzJoemUycXMyejNxeDM4dmoifQ.qGGJrHOCGWx9tepagMKk1Q"</string>
+    <string name="reset_password">重置密码</string>
+</resources>

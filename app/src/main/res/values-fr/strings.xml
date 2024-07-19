@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mon Application</string>
+
+    <string name="nav_home">Accueil</string>
+    <string name="nav_explore">Explorer</string>
+    <string name="nav_create">Créer</string>
+    <string name="nav_profile">Profil</string>
+
+    <string name="location">Localisation</string>
+    <string name="dark_model">Mode Sombre</string>
+    <string name="language">Langue</string>
+    <string name="help">Aide</string>
+    <string name="settings">Paramètres</string>
+    <string name="register">S\'inscrire</string>
+    <string name="login">Connexion</string>
+    <string name="sign_in_with_google">Se connecter avec Google</string>
+    <string name="enter_email">Entrez l\'email</string>
+    <string name="enter_password">Entrez le mot de passe</string>
+    <string name="upload_photo">Télécharger une photo</string>
+    <string name="remind">Rappeler</string>
+    <string name="personal_info">Informations personnelles</string>
+    <string name="support">Support</string>
+    <string name="share">Partager</string>
+    <string name="setting">Réglage</string>
+    <string name="log_out">Déconnexion</string>
+    <string name="day_dreamer">Rêveur de jour</string>
+    <string name="wish_you_had_a_lovely_day">Souhaitez-vous une belle journée!</string>
+    <string name="confirm_password">Confirmez le mot de passe</string>
+<string name="title_activity_weather">Activité Météo</string>
+    <string name="mapbox_access_token">" pk.eyJ1IjoibHV5Z2dnIiwiYSI6ImNsdm0wcWF2dzJoemUycXMyejNxeDM4dmoifQ.qGGJrHOCGWx9tepagMKk1Q"</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+</resources>
